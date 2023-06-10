@@ -63,7 +63,7 @@
 
 \newcommand{\name}[1]{\renewcommand{\name}{#1}} % Defines the \name command to set the user's name
 
-\newcommand{\addressSep}{$\diamond$} % Set default address separator to a diamond symbol
+\newcommand{\addressSep}{$\cdot$} % Set default address separator to a cdot symbol
 
 % One, two or three address lines can be specified
 \let \@addressone \relax
