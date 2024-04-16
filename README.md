@@ -1,3 +1,5 @@
 # resume
 
-My resume in LaTeX. Compiled in VS Code using the LaTeX Workshop extension, and way too many TeX packages.
+My resume, written in LaTex.
+
+## [View the latest version here](jackmalcom.pdf)
